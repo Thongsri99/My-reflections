@@ -1,3 +1,7 @@
 --When would you want to use a remote repository rather than keeping all your work local?
 
 To immediately update changes online.
+
+--When would you want to use a remote repository rather than keeping all your work local?
+
+I could keep all my work remote so its possible to work in different locations.
