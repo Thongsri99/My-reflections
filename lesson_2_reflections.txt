@@ -15,4 +15,4 @@ I can use the staging area to double check what changes im making
 
 --What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
-I can use branches to make changes thta may differ greatly from the master branch.  It allows me to separate the two differently.
+I can use branches to make changes that may differ greatly from the master branch.  It allows me to separate the two differently.
