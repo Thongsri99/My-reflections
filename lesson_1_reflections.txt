@@ -46,4 +46,4 @@ I can use git Diff to compare two files easily.  Use Q to exit and arrow keys to
 
 --How might using version control make you more confident to make changes that could break something?
 
-With a system of version control, i can condifently make changes and know that i can easily revert back to an older state.
+With a system of version control, i can confidently make changes and know that i can easily revert back to an older state.
